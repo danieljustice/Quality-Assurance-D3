@@ -11,6 +11,7 @@
 <thead>
 <tr><td rowspan="1" colspan="3">fibonacciURLTest</td></tr>
 </thead><tbody>
+<!--Given that I am on the Home Page I would like to go to the Fibonacci Page when I click Fibonacci-->
 <tr>
 	<td>open</td>
 	<td>/</td>
@@ -26,7 +27,6 @@
 	<td>https://cs1632ex.herokuapp.com/fib</td>
 	<td></td>
 </tr>
-
 </tbody></table>
 </body>
 </html>

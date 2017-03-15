@@ -11,6 +11,7 @@
 <thead>
 <tr><td rowspan="1" colspan="3">usedForQATextTest</td></tr>
 </thead><tbody>
+<!--Given that I am on the Home Page I would like to see "Used for CS1632 Software Quality Assurance, taught by Bill Laboon"-->
 <tr>
 	<td>open</td>
 	<td>/</td>
@@ -26,7 +27,6 @@
 	<td>css=div.row &gt; p.lead</td>
 	<td>Used for CS1632 Software Quality Assurance, taught by Bill Laboon</td>
 </tr>
-
 </tbody></table>
 </body>
 </html>

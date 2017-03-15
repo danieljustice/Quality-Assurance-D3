@@ -34,7 +34,7 @@
 <tr>
 	<td>assertText</td>
 	<td>css=h2</td>
-	<td>Fibonacci of 50 is 1!</td>
+	<td>Fibonacci of 50 is 12586269025!</td>
 </tr>
 </tbody></table>
 </body>

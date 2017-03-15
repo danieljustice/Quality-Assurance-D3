@@ -11,8 +11,9 @@
 <thead>
 <tr><td rowspan="1" colspan="3">factorialURLTest</td></tr>
 </thead><tbody>
+<!--Given that I am on the Home Page I would like to go to the Factorial Page when I click Factorial-->
 <tr>
-	<td>open</td>
+	<td>Given that I am on the Home Page I would like to go to the Factorial Page when I click Factorial</td>
 	<td>/</td>
 	<td></td>
 </tr>
@@ -26,7 +27,6 @@
 	<td>https://cs1632ex.herokuapp.com/fact</td>
 	<td></td>
 </tr>
-
 </tbody></table>
 </body>
 </html>

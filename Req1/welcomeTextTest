@@ -11,6 +11,7 @@
 <thead>
 <tr><td rowspan="1" colspan="3">welcomeTextTest</td></tr>
 </thead><tbody>
+<!--Given that I am on the Home Page I would like to see "Welcome, friend,"-->
 <tr>
 	<td>open</td>
 	<td>/</td>
