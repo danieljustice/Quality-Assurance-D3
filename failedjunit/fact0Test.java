@@ -6,7 +6,8 @@ import org.junit.*;
 import static org.junit.Assert.*;
 import static org.hamcrest.CoreMatchers.*;
 import org.openqa.selenium.*;
-import org.openqa.selenium.firefox.FirefoxDriver;
+// import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.htmlunit.HtmlUnitDriver;
 import org.openqa.selenium.support.ui.Select;
 import junit.framework.TestCase;
 
@@ -18,7 +19,8 @@ public class fact0Test extends TestCase{
 
   @Before
   public void setUp() throws Exception {
-    driver = new FirefoxDriver();
+    // driver = new FirefoxDriver();
+    driver = new HtmlUnitDriver();
     baseUrl = "https://cs1632ex.herokuapp.com/";
     driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
   }
