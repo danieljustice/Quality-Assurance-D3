@@ -10,14 +10,9 @@
 <tr><td><b>Test Suite</b></td></tr>
 <tr><td><a href="fact1Test">fact1Test</a></td></tr>
 <tr><td><a href="fact2Test">fact2Test</a></td></tr>
-<tr><td><a href="fact0Test">fact0Test</a></td></tr>
-<tr><td><a href="fact100Test">fact100Test</a></td></tr>
-<tr><td><a href="fact101Test">fact101Test</a></td></tr>
-<tr><td><a href="fact99Test">fact99Test</a></td></tr>
 <tr><td><a href="fact50Test">fact50Test</a></td></tr>
-<tr><td><a href="factStringTest">factStringTest</a></td></tr>
-<tr><td><a href="factDecimalTest">factDecimalTest</a></td></tr>
-<tr><td><a href="factNegTest">factNegTest</a></td></tr>
+<tr><td><a href="fact99Test">fact99Test</a></td></tr>
+<tr><td><a href="fact100Test">fact100Test</a></td></tr>
 </tbody></table>
 </body>
 </html>

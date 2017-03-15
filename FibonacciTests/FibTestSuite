@@ -16,6 +16,8 @@
 <tr><td><a href="fib0Test">fib0Test</a></td></tr>
 <tr><td><a href="fibNeg1Test">fibNeg1Test</a></td></tr>
 <tr><td><a href="fib50Test">fib50Test</a></td></tr>
+<tr><td><a href="fibStringTest">fibStringTest</a></td></tr>
+<tr><td><a href="fibDecimalTest">fibDecimalTest</a></td></tr>
 </tbody></table>
 </body>
 </html>

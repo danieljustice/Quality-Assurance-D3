@@ -4,12 +4,12 @@
 <head profile="http://selenium-ide.openqa.org/profiles/test-case">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <link rel="selenium.base" href="https://cs1632ex.herokuapp.com/" />
-<title>fact99Test</title>
+<title>welcomeTextTest</title>
 </head>
 <body>
 <table cellpadding="1" cellspacing="1" border="1">
 <thead>
-<tr><td rowspan="1" colspan="3">fact99Test</td></tr>
+<tr><td rowspan="1" colspan="3">welcomeTextTest</td></tr>
 </thead><tbody>
 <tr>
 	<td>open</td>
@@ -18,23 +18,13 @@
 </tr>
 <tr>
 	<td>clickAndWait</td>
-	<td>link=Factorial</td>
-	<td></td>
-</tr>
-<tr>
-	<td>type</td>
-	<td>name=value</td>
-	<td>99</td>
-</tr>
-<tr>
-	<td>clickAndWait</td>
-	<td>css=input[type=&quot;submit&quot;]</td>
+	<td>link=CS1632 D3 Home</td>
 	<td></td>
 </tr>
 <tr>
 	<td>assertText</td>
-	<td>css=h2</td>
-	<td>Factorial of 99 is 933262154439441526816992388562667004907159682643816214685929638952175999932299156089414639761565182862536979208272237582511852109168640000000000000000000000!</td>
+	<td>css=p.lead</td>
+	<td>*Welcome, friend,*</td>
 </tr>
 </tbody></table>
 </body>
